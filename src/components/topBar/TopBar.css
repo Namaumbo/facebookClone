@@ -1,0 +1,49 @@
+.topBarContainer{
+    display: flex; 
+    background-color: #0d8af0;
+    padding:10px;
+    color:azure;
+    position: sticky;
+    top: 0;
+    align-items: center;
+}
+.topBarLeft{
+flex: 3;
+}
+
+.topBarMiddle{
+    display: flex;
+    justify-content: space-between; 
+   flex:6
+}
+.searchInput{   
+    width: 190%;
+    height: 30px;
+    color:black;
+    background-color: white;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+}
+.search{
+    border: none;
+    width: 140%;
+}
+.search:focus{
+    outline:none
+}
+.topBarRight{
+    display: flex;
+  flex:3;
+}
+.logo{
+    font-weight: bold;
+    font-size: 24px;
+}
+.profilePic{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit:cover
+    
+}

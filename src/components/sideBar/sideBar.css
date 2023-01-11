@@ -1,0 +1,50 @@
+.sideBarContainer {
+    flex: 2;
+    height: calc(100vh-10px);
+    overflow-y:scroll;
+}
+::-webkit-scrollbar{
+width: 7px;
+}
+
+::-webkit-scrollbar{
+  background-color: gray;  
+}
+
+::-webkit-scrollbar{
+    background-color: white;
+}
+.sideBarItems {
+    padding: 0;
+    margin: 0;
+}
+
+.sideBarItemText {
+    margin-left: 10px;
+}
+
+.itemList {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.friends {
+    display: flex;
+    align-items: center;
+    padding: 5%
+}
+
+.avatarText {
+    margin-left: 10px;
+}
+
+.friendImage {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover
+}
