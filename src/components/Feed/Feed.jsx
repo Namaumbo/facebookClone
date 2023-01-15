@@ -1,6 +1,7 @@
 
 import {Label, PermMedia, Room, TagFaces, } from '@material-ui/icons'
 import React from 'react'
+import Post from '../../components/Posts/Post'
 import './Feed.css'
 
 export default function Feed() {
@@ -34,6 +35,7 @@ export default function Feed() {
         <button className='shareBtn'>Share</button>
         </div>
       </div>
+      <Post/>
     </div>
   )
 }
