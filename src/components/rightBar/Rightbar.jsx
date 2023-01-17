@@ -1,7 +1,7 @@
 import React from "react";
 import "./rightBar.css";
 
-export default function RightBar() {
+export default function Rightbar() {
   return (
     <div className="RightBarContainer">
       <div className="topInfo">
