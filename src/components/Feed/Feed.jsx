@@ -9,7 +9,7 @@ export default function Feed() {
     <div className='FeedContainer'>
       <div className="inputContainer">
         <div className="avatar">
-        <img src="/assets/Profiles/6.jpg" alt="Enock" className='friendImage' />
+        <img src="/assets/Profiles/6.jpg" alt="Eno" className='friendImage' />
         <input className='input' type='text' placeholder='Whats on your mind??'/>
         </div>
         <hr style={{marginBottom:'20px',marginTop:'20px',marginRight:'14px',marginLeft:'14px'  }} /> 
@@ -35,9 +35,9 @@ export default function Feed() {
         <button className='shareBtn'>Share</button>
         </div>
       </div>
-      <Post name='Daelo Namaumbo' profile='/assets/Profiles/4.jpg'/>
+      <Post name='Jan Doe' profile='/assets/Profiles/4.jpg'/>
       <Post name = 'John Doe' profile='/assets/Profiles/2.jpg'/>
-      <Post name = 'Dan Okray' profile='/assets/Profiles/3.jpg' />
+      <Post name = 'Dan Okay' profile='/assets/Profiles/3.jpg' />
     </div>
   )
 }

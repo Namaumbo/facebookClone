@@ -7,8 +7,8 @@ export default function RightBar() {
       <div className="topInfo">
         <img src="/assets/stats/gift.png"  alt="love" className="gift" />
         <span>
-          <b>Daelo Namaumbo</b> and <b>other 3 friends</b> have birthdays
-          tomorow
+          <b>Day doe </b> and <b>other 3 friends</b> have birthdays
+          tomorrow
         </span>
       </div>
       <div className="birthday">
@@ -24,28 +24,28 @@ export default function RightBar() {
           <ul >
             <li className="friends">
             <div className="holder">
-            <img src="/assets/Profiles/1.jpg" alt="Enock"  className='friendImage' />
+            <img src="/assets/Profiles/1.jpg" alt="Eno"  className='friendImage' />
             <span className="onlineDot">{" "}</span>
             </div>
             <span className="avatarText">Sam Tinted</span>
             </li>
             <li className="friends">
             <div className="holder">
-            <img src="/assets/Profiles/7.jpg" alt="Enock"  className='friendImage' />
+            <img src="/assets/Profiles/7.jpg" alt="Eno"  className='friendImage' />
             <span className="onlineDot">{" "}</span>
             </div>
             <span className="avatarText">Sam Tinted</span>
             </li>
             <li className="friends">
             <div className="holder">
-            <img src="/assets/Profiles/2.jpg" alt="Enock"  className='friendImage' />
+            <img src="/assets/Profiles/2.jpg" alt="Eno"  className='friendImage' />
             <span className="onlineDot">{" "}</span>
             </div>
             <span className="avatarText">Sam Tinted</span>
             </li>
             <li className="friends">
             <div className="holder">
-            <img src="/assets/Profiles/3.jpg" alt="Enock"  className='friendImage' />
+            <img src="/assets/Profiles/3.jpg" alt="Eno"  className='friendImage' />
             <span className="onlineDot">{" "}</span>
             </div>
             <span className="avatarText">Sam Tinted</span>
