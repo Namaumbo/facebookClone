@@ -36,6 +36,7 @@
     list-style: none;
     display: flex;
     align-items: center;
+    cursor: pointer;
    
 }
 .mediaText{
@@ -58,7 +59,7 @@
 .shareBtn:hover{
     cursor: pointer;
     background-color:#42ca3b;
-    box-shadow: 1px 0px 5px 1px black;
+    box-shadow: 1px 0px 5px 1px rgb(90, 185, 90);
 }
 
 .inputContainer{
