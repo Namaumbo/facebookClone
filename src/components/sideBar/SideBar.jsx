@@ -72,28 +72,28 @@ export default function SideBar() {
       <Button variant='contained' style={{marginLeft:"30px",marginBottom:"10px"}}>Show more</Button>
       <hr />
       <div >
-        <ul >
-          <li className="friends">
-          <img src="/assets/Profiles/1.jpg" alt="Enock"  className='friendImage' />
-          <span className="avatarText">Sam Tinted</span>
-          </li>
-          <li className="friends">
-          <img src="/assets/Profiles/2.jpg" alt="Enock" className='friendImage'  />
-          <span className="avatarText">Alex Yohah</span>
-          </li>
-          <li className="friends">
-          <img src="/assets/Profiles/6.jpg" alt="Enock" className='friendImage' />
-          <span className="avatarText">Enock Chokha</span>
-          </li>
-          <li className="friends">
-          <img src="/assets/Profiles/3.jpg" alt="Enock" className='friendImage' />
-          <span className="avatarText">Enock Chokha</span>
-          </li>
-          <li className="friends">
-          <img src="/assets/Profiles/5.jpg" alt="Enock" className='friendImage' />
-          <span className="avatarText">Enock Chokha</span>
-          </li>
-        </ul>
+          <ul >
+            <li className="friends">
+            <img src="/assets/Profiles/1.jpg" alt="Enock"  className='friendImage' />
+            <span className="avatarText">Sam Tinted</span>
+            </li>
+            <li className="friends">
+            <img src="/assets/Profiles/2.jpg" alt="Enock" className='friendImage'  />
+            <span className="avatarText">Alex Yohah</span>
+            </li>
+            <li className="friends">
+            <img src="/assets/Profiles/6.jpg" alt="Enock" className='friendImage' />
+            <span className="avatarText">Enock Chokha</span>
+            </li>
+            <li className="friends">
+            <img src="/assets/Profiles/3.jpg" alt="Enock" className='friendImage' />
+            <span className="avatarText">Enock Chokha</span>
+            </li>
+            <li className="friends">
+            <img src="/assets/Profiles/5.jpg" alt="Enock" className='friendImage' />
+            <span className="avatarText">Enock Chokha</span>
+            </li>
+          </ul>
       </div>
     
     </div>

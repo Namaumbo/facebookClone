@@ -35,7 +35,9 @@ export default function Feed() {
         <button className='shareBtn'>Share</button>
         </div>
       </div>
-      <Post/>
+      <Post name='Daelo Namaumbo' profile='/assets/Profiles/4.jpg'/>
+      <Post name = 'John Doe' profile='/assets/Profiles/2.jpg'/>
+      <Post name = 'Dan Okray' profile='/assets/Profiles/3.jpg' />
     </div>
   )
 }
