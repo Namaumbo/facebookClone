@@ -8,7 +8,7 @@ export default function RightBar() {
         <img src="/assets/stats/gift.png"  alt="love" className="gift" />
         <span>
           <b>Day doe </b> and <b>other 3 friends</b> have birthdays
-          tomorrow
+          tomorrow.
         </span>
       </div>
       <div className="birthday">
